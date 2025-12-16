@@ -1,20 +1,37 @@
-<h1 align="center" style="color:#ff6ec7;">Hello! I'm Wassim 👋</h1>
-<p align="center"><i>I do full-stack development & cybersecurity :)</i></p>
+<p align="center">
+  <img 
+    src="https://media.licdn.com/dms/image/v2/D4D03AQGovh5yYsmYXA/profile-displayphoto-crop_800_800/B4DZsepmfrJkAI-/0/1765745781225?e=1767225600&v=beta&t=ch3FxMqXIlEuH_U-uly0VzHmjsxyHrLZkZ5acnx0jpM"
+    width="160"
+    height="160"
+    style="border-radius:50%; object-fit:cover;"
+    alt="Wassim Profile Photo"
+  />
+</p>
+
+<h1 align="center" style="color:#ff6ec7;">Hi, I'm Wassim 👋</h1>
+<p align="center">
+  <i>Full-Stack Developer • Cybersecurity Enthusiast • Problem Solver</i>
+</p>
 
 ---
 
-I'm a self-taught and passionate Full Stack Developer from **Morocco 🇲🇦**.
+I'm a <b>self-taught and passionate Full-Stack Developer</b> from <b>Morocco 🇲🇦</b>, focused on building <b>secure, scalable, and real-world applications</b>.
 
-### 🚀 About me
-- 👨‍💻 Full Stack Developer (Django, React, JS, Python, Java, Spring Boot)  
-- 🔐 Interested in Cybersecurity, Ethical Hacking & Secure APIs  
-- 🤖 Learning AI, automation & smart systems  
-- 🏗 I love building real projects and solving logical problems  
-- 💬 Ask me anything on my socials below  
+<h3>🚀 About Me</h3>
+
+<ul>
+  <li>👨‍💻 Full-Stack Developer (Django, React, JavaScript, Python, Java, Spring Boot)</li>
+  <li>🔐 Strong interest in <b>Cybersecurity, Ethical Hacking & Secure APIs</b></li>
+  <li>🤖 Currently learning <b>AI, automation & smart systems</b></li>
+  <li>🏗 Love building real projects that solve practical problems</li>
+  <li>💡 Always curious, always learning</li>
+  <li>💬 Feel free to reach out through my socials below</li>
+</ul>
 
 ---
 
-### 🛠 Tech I Use
+<h3>🛠 Tech Stack</h3>
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,7 +50,8 @@ I'm a self-taught and passionate Full Stack Developer from **Morocco 🇲🇦**.
 
 ---
 
-### 🌐 Social Links
+<h3>🌐 Connect With Me</h3>
+
 <p>
   <a href="https://facebook.com/hanatiwassim">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
@@ -48,7 +66,8 @@ I'm a self-taught and passionate Full Stack Developer from **Morocco 🇲🇦**.
 
 ---
 
-### 📊 Wassim's GitHub Stats
+<h3>📊 GitHub Stats</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wassim6363&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wassim6363&theme=tokyonight" height="160"/>
@@ -56,12 +75,16 @@ I'm a self-taught and passionate Full Stack Developer from **Morocco 🇲🇦**.
 
 ---
 
-### 🎨 Most Used Languages
+<h3>🎨 Most Used Languages</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim6363&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-### ✨ Quote  
-> *"Success is built by small steps taken every day."*
+<h3>✨ Quote</h3>
+
+<blockquote>
+  <i>“Great things are built one small step at a time.”</i>
+</blockquote>
